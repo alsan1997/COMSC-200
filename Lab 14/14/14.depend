@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1428344874 source:g:\comsc-200\lab 14\14\elevator.cpp
+	"Elevator.h"
+	"Rider.h"
+	"Floor.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+
+1431299998 g:\comsc-200\lab 14\14\elevator.h
+	"Rider.h"
+	"Floor.h"
+	<iostream>
+	<vector>
+
+1431300450 g:\comsc-200\lab 14\14\rider.h
+
+1431300450 g:\comsc-200\lab 14\14\floor.h
+	"Rider.h"
+	<string>
+	<vector>
+	<iostream>
+
+1430939430 source:g:\comsc-200\lab 14\14\elevatorsimulation4.cpp
+	<iostream>
+	<vector>
+	"Floor.h"
+	"Rider.h"
+	"Elevator.h"
+
+1431300086 source:g:\comsc-200\lab 14\14\floor.cpp
+	"Floor.h"
+	"Elevator.h"
+	"Rider.h"
+
+1428288912 source:g:\comsc-200\lab 14\14\rider.cpp
+	"Rider.h"
+

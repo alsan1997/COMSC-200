@@ -1,0 +1,23 @@
+﻿Build started 4/26/2015 8:21:39 PM.
+     1>Project "C:\Users\Aldo Sanjoto\Desktop\Lecture13\VS SAMple\Comsc200\Comsc200\Comsc200.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\Comsc200.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Comsc200.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Comsc200.cpp Comsc200Dlg.cpp
+         Comsc200.cpp
+         Comsc200Dlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /l"0x0409" /IRelease\ /nologo /fo"Release\Comsc200.res" Comsc200.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Aldo Sanjoto\Desktop\Lecture13\VS SAMple\Comsc200\Release\Comsc200.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Aldo Sanjoto\Desktop\Lecture13\VS SAMple\Comsc200\Release\Comsc200.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aldo Sanjoto\Desktop\Lecture13\VS SAMple\Comsc200\Release\Comsc200.lib" /MACHINE:X86 /SAFESEH Release\Comsc200.res
+         Release\Comsc200.obj
+         Release\Comsc200Dlg.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         Comsc200.vcxproj -> C:\Users\Aldo Sanjoto\Desktop\Lecture13\VS SAMple\Comsc200\Release\Comsc200.exe
+     1>Done Building Project "C:\Users\Aldo Sanjoto\Desktop\Lecture13\VS SAMple\Comsc200\Comsc200\Comsc200.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:21.08

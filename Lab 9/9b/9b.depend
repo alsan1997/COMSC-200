@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1427781350 source:f:\comsc200\lab 9\9b\elevator.cpp
+	"Elevator.h"
+	<iostream>
+	<cstdlib>
+
+1427783168 source:f:\comsc200\lab 9\9b\elevatortest.cpp
+	<iostream>
+	"Floor.h"
+	"Elevator.h"
+
+1427074608 f:\comsc200\lab 9\9b\floor.h
+
+1427143454 f:\comsc200\lab 9\9b\elevator.h
+	<iostream>
+	"Floor.h"
+
+1427138230 source:e:\comsc200\lab 9\9b\elevator.cpp
+	"Elevator.h"
+	<iostream>
+	<cstdlib>
+
+1427136214 e:\comsc200\lab 9\9b\elevator.h
+	<iostream>
+	"Floor.h"
+
+1427074608 e:\comsc200\lab 9\9b\floor.h
+
+1427079284 source:e:\comsc200\lab 9\9b\elevatortest.cpp
+	<iostream>
+	"Floor.h"
+	"Elevator.h"
+

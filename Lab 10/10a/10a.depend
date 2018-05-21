@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1427193428 source:f:\comsc200\lab 10\10a\date.cpp
+	<iostream>
+	<string>
+	"Date.h"
+
+1427193418 f:\comsc200\lab 10\10a\date.h
+	<iostream>
+

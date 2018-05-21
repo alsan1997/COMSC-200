@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1429729590 source:g:\comsc-200\lab 13\13\geometryhomework.cpp
+	"GeometryHomework.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+
+1430364944 g:\comsc-200\lab 13\13\geometryhomework.h
+	<iostream>
+
+1429729382 source:g:\comsc-200\lab 13\13\geometrymain.cpp
+	"GeometryHomework.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<vector>
+

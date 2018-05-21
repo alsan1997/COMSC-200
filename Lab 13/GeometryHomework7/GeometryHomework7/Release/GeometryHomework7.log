@@ -1,0 +1,20 @@
+﻿Build started 5/4/2015 2:14:41 PM.
+     1>Project "G:\COMSC-200\Lab 13\GeometryHomework7\GeometryHomework7\GeometryHomework7.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\GeometryHomework7.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeometryHomework7.cpp GeometryHomework7Dlg.cpp
+         GeometryHomework7.cpp
+         GeometryHomework7Dlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\COMSC-200\Lab 13\GeometryHomework7\Release\GeometryHomework7.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"G:\COMSC-200\Lab 13\GeometryHomework7\Release\GeometryHomework7.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\COMSC-200\Lab 13\GeometryHomework7\Release\GeometryHomework7.lib" /MACHINE:X86 /SAFESEH Release\GeometryHomework7.res
+         Release\GeometryHomework.obj
+         Release\GeometryHomework7.obj
+         Release\GeometryHomework7Dlg.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         GeometryHomework7.vcxproj -> G:\COMSC-200\Lab 13\GeometryHomework7\Release\GeometryHomework7.exe
+     1>Done Building Project "G:\COMSC-200\Lab 13\GeometryHomework7\GeometryHomework7\GeometryHomework7.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.34

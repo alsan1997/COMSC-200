@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1424555378 source:f:\comsc200\lab 5\5a\date.cpp
+	<iostream>
+	"Date.h"
+
+1424555582 source:f:\comsc200\lab 5\5a\employee.cpp
+	<iostream>
+	"Employee.h"
+	"Date.h"
+
+1424555378 source:e:\comsc200\lab 5\5a\date.cpp
+	<iostream>
+	"Date.h"
+
+1424555098 e:\comsc200\lab 5\5a\date.h
+
+1424555662 e:\comsc200\lab 5\5a\employee.h
+	<string>
+	"Date.h"
+
+1424555098 f:\comsc200\lab 5\5a\date.h
+
+1424555662 f:\comsc200\lab 5\5a\employee.h
+	<string>
+	"Date.h"
+
+1424555596 source:f:\comsc200\lab 5\5a\test.cpp
+	<iostream>
+	"Date.h"
+	"Employee.h"
+
+1424555582 source:e:\comsc200\lab 5\5a\employee.cpp
+	<iostream>
+	"Employee.h"
+	"Date.h"
+
+1424556130 source:e:\comsc200\lab 5\5a\test.cpp
+	<iostream>
+	"Date.h"
+	"Employee.h"
+

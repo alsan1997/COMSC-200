@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1426671298 source:f:\comsc200\lab 9\9a\array.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	"Array.h"
+
+1426671206 f:\comsc200\lab 9\9a\array.h
+	<iostream>
+
+1426671602 source:f:\comsc200\lab 9\9a\arraytest.cpp
+	<iostream>
+	"Array.h"
+

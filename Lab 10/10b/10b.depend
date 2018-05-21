@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1428288820 source:f:\comsc200\lab 10\10b\elevator.cpp
+	"Elevator.h"
+	"Rider.h"
+	"Floor.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+
+1428287406 f:\comsc200\lab 10\10b\elevator.h
+	"Rider.h"
+	<iostream>
+	<vector>
+
+1427884230 f:\comsc200\lab 10\10b\floor.h
+
+1428288834 source:f:\comsc200\lab 10\10b\elevatorsimulation3.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"Floor.h"
+	"Rider.h"
+	"Elevator.h"
+
+1428254494 f:\comsc200\lab 10\10b\rider.h
+	"Floor.h"
+
+1428286968 source:f:\comsc200\lab 10\10b\rider.cpp
+	"Rider.h"
+
+1428344874 source:e:\comsc200\lab 10\10b\elevator.cpp
+	"Elevator.h"
+	"Rider.h"
+	"Floor.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+
+1428287406 e:\comsc200\lab 10\10b\elevator.h
+	"Rider.h"
+	<iostream>
+	<vector>
+
+1428254494 e:\comsc200\lab 10\10b\rider.h
+	"Floor.h"
+
+1427884230 e:\comsc200\lab 10\10b\floor.h
+
+1428344874 source:e:\comsc200\lab 10\10b\elevatorsimulation3.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"Floor.h"
+	"Rider.h"
+	"Elevator.h"
+
+1428288912 source:e:\comsc200\lab 10\10b\rider.cpp
+	"Rider.h"
+
+1428344874 source:g:\comsc-200\lab 10\10b\elevator.cpp
+	"Elevator.h"
+	"Rider.h"
+	"Floor.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+
+1428287406 g:\comsc-200\lab 10\10b\elevator.h
+	"Rider.h"
+	<iostream>
+	<vector>
+
+1431322786 g:\comsc-200\lab 10\10b\rider.h
+	"Floor.h"
+
+1427884230 g:\comsc-200\lab 10\10b\floor.h
+
+1428288912 source:g:\comsc-200\lab 10\10b\rider.cpp
+	"Rider.h"
+
+1431049126 source:g:\comsc-200\lab 10\10b\elevatorsimulation3.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"Floor.h"
+	"Rider.h"
+	"Elevator.h"
+

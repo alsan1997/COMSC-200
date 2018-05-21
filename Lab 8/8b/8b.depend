@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1426531892 source:f:\comsc200\lab 8\8b\elevatorsimulation1.cpp
+	<iostream>
+	"Floor.h"
+	"Rider.h"
+
+1426661572 f:\comsc200\lab 8\8b\floor.h
+
+1427835856 f:\comsc200\lab 8\8b\rider.h
+	"Floor.h"
+
+1426098506 source:f:\comsc200\lab 8\8b\floor.cpp
+	"Floor.h"
+
+1426479326 source:f:\comsc200\lab 8\8b\rider.cpp
+	<iostream>
+	"Rider.h"
+
+1426098506 source:e:\comsc200\lab 8\8b\floor.cpp
+	"Floor.h"
+
+1426531744 e:\comsc200\lab 8\8b\floor.h
+
+1426531892 source:e:\comsc200\lab 8\8b\elevatorsimulation1.cpp
+	<iostream>
+	"Floor.h"
+	"Rider.h"
+
+1426531924 e:\comsc200\lab 8\8b\rider.h
+	"Floor.h"
+
+1426532666 source:e:\comsc200\lab 8\8b\rider.cpp
+	<iostream>
+	"Rider.h"
+
+1426531892 source:g:\comsc-200\lab 8\8b\elevatorsimulation1.cpp
+	<iostream>
+	"Floor.h"
+	"Rider.h"
+
+1426661572 g:\comsc-200\lab 8\8b\floor.h
+
+1427836154 g:\comsc-200\lab 8\8b\rider.h
+	"Floor.h"
+
+1426098506 source:g:\comsc-200\lab 8\8b\floor.cpp
+	"Floor.h"
+

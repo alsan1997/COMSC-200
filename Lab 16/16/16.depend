@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1432016456 source:g:\comsc-200\lab 16\16\building.cpp
+	"Building.h"
+	"Floor.h"
+	"Elevator.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1432016338 g:\comsc-200\lab 16\16\building.h
+	<vector>
+	<iostream>
+
+1431835464 g:\comsc-200\lab 16\16\floor.h
+	"Rider.h"
+	<string>
+	<vector>
+	<iostream>
+
+1431835460 g:\comsc-200\lab 16\16\rider.h
+
+1431835464 g:\comsc-200\lab 16\16\elevator.h
+	"Rider.h"
+	"Floor.h"
+	<iostream>
+	<vector>
+
+1431835464 source:g:\comsc-200\lab 16\16\elevator.cpp
+	"Elevator.h"
+	"Rider.h"
+	"Floor.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+
+1432154550 source:g:\comsc-200\lab 16\16\elevatorsimulation6.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"Building.h"
+	"Elevator.h"
+	"Floor.h"
+
+1431835464 source:g:\comsc-200\lab 16\16\floor.cpp
+	"Floor.h"
+	"Rider.h"
+	<vector>
+	<iostream>
+
+1431925008 source:g:\comsc-200\lab 16\16\rider.cpp
+	"Rider.h"
+
+1431835464 source:e:\comsc-200\lab 16\16\elevator.cpp
+	"Elevator.h"
+	"Rider.h"
+	"Floor.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+
+1431835464 e:\comsc-200\lab 16\16\elevator.h
+	"Rider.h"
+	"Floor.h"
+	<iostream>
+	<vector>
+
+1431835460 e:\comsc-200\lab 16\16\rider.h
+
+1431835464 e:\comsc-200\lab 16\16\floor.h
+	"Rider.h"
+	<string>
+	<vector>
+	<iostream>
+
+1432154550 source:e:\comsc-200\lab 16\16\elevatorsimulation6.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"Building.h"
+	"Elevator.h"
+	"Floor.h"
+
+1432016338 e:\comsc-200\lab 16\16\building.h
+	<vector>
+	<iostream>
+
+1431835464 source:e:\comsc-200\lab 16\16\floor.cpp
+	"Floor.h"
+	"Rider.h"
+	<vector>
+	<iostream>
+
+1431925008 source:e:\comsc-200\lab 16\16\rider.cpp
+	"Rider.h"
+
+1432172728 source:e:\comsc-200\lab 16\16\building.cpp
+	"Building.h"
+	"Floor.h"
+	"Elevator.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1432169128 source:c:\users\aldos\desktop\thecomsc\comsc-200\lab 16\16\building.cpp
+	"Building.h"
+	"Floor.h"
+	"Elevator.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1432012738 c:\users\aldos\desktop\thecomsc\comsc-200\lab 16\16\building.h
+	<vector>
+	<iostream>
+
+1431831864 c:\users\aldos\desktop\thecomsc\comsc-200\lab 16\16\floor.h
+	"Rider.h"
+	<string>
+	<vector>
+	<iostream>
+
+1431831860 c:\users\aldos\desktop\thecomsc\comsc-200\lab 16\16\rider.h
+
+1431831864 c:\users\aldos\desktop\thecomsc\comsc-200\lab 16\16\elevator.h
+	"Rider.h"
+	"Floor.h"
+	<iostream>
+	<vector>
+
+1431831864 source:c:\users\aldos\desktop\thecomsc\comsc-200\lab 16\16\elevator.cpp
+	"Elevator.h"
+	"Rider.h"
+	"Floor.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+
+1432169220 source:c:\users\aldos\desktop\thecomsc\comsc-200\lab 16\16\elevatorsimulation6.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"Building.h"
+	"Elevator.h"
+	"Floor.h"
+
+1431831864 source:c:\users\aldos\desktop\thecomsc\comsc-200\lab 16\16\floor.cpp
+	"Floor.h"
+	"Rider.h"
+	<vector>
+	<iostream>
+
+1431921408 source:c:\users\aldos\desktop\thecomsc\comsc-200\lab 16\16\rider.cpp
+	"Rider.h"
+

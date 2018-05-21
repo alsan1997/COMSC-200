@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1432153588 source:g:\comsc-200\lab 15\15\building.cpp
+	"Building.h"
+	"Floor.h"
+	"Elevator.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1432016338 g:\comsc-200\lab 15\15\building.h
+	<vector>
+	<iostream>
+
+1431835464 g:\comsc-200\lab 15\15\floor.h
+	"Rider.h"
+	<string>
+	<vector>
+	<iostream>
+
+1431835460 g:\comsc-200\lab 15\15\rider.h
+
+1431835464 g:\comsc-200\lab 15\15\elevator.h
+	"Rider.h"
+	"Floor.h"
+	<iostream>
+	<vector>
+
+1431835464 source:g:\comsc-200\lab 15\15\elevator.cpp
+	"Elevator.h"
+	"Rider.h"
+	"Floor.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+
+1431835464 source:g:\comsc-200\lab 15\15\floor.cpp
+	"Floor.h"
+	"Rider.h"
+	<vector>
+	<iostream>
+
+1431925008 source:g:\comsc-200\lab 15\15\rider.cpp
+	"Rider.h"
+
+1431835462 source:g:\comsc-200\lab 15\15\elevatorsimulation6.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Building.h"
+	"Elevator.h"
+	"Floor.h"
+
+1431543490 source:e:\comsc-200\lab 15\15\elevatorsimulation6.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Building.h"
+	"Elevator.h"
+	"Floor.h"
+
+1431542104 e:\comsc-200\lab 15\15\building.h
+	<vector>
+	<iostream>
+
+1431369586 source:e:\comsc-200\lab 15\15\rider.cpp
+	"Rider.h"
+
+1431369586 e:\comsc-200\lab 15\15\rider.h
+
+1431544458 source:e:\comsc-200\lab 15\15\building.cpp
+	"Building.h"
+	"Floor.h"
+	"Elevator.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1431369584 e:\comsc-200\lab 15\15\floor.h
+	"Rider.h"
+	<string>
+	<vector>
+	<iostream>
+
+1431539840 e:\comsc-200\lab 15\15\elevator.h
+	"Rider.h"
+	"Floor.h"
+	<iostream>
+	<vector>
+
+1431541500 source:e:\comsc-200\lab 15\15\elevator.cpp
+	"Elevator.h"
+	"Rider.h"
+	"Floor.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+
+1431543590 source:e:\comsc-200\lab 15\15\floor.cpp
+	"Floor.h"
+	"Rider.h"
+	<vector>
+	<iostream>
+

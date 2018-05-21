@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1426418678 source:f:\comsc200\lab 8\8a\phonenumber.cpp
+	<iostream>
+	<iomanip>
+	"PhoneNumber.h"
+
+1426418768 f:\comsc200\lab 8\8a\phonenumber.h
+	<iostream>
+	<string>
+
+1426418686 source:f:\comsc200\lab 8\8a\phonenumbertest.cpp
+	<iostream>
+	"PhoneNumber.h"
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1422908168 source:c:\users\asanjoto659\desktop\lab3a\salesperson.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	"SalesPerson.h"
+
+1422906660 c:\users\asanjoto659\desktop\lab3a\salesperson.h
+
+1423075936 source:c:\users\asanjoto659\desktop\lab3a\test.cpp
+	<iostream>
+	"SalesPerson.h"
+
+1422908168 source:e:\comsc200\lab 3\lab 3a\lab3a\salesperson.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	"SalesPerson.h"
+
+1422906660 e:\comsc200\lab 3\lab 3a\lab3a\salesperson.h
+
+1423075936 source:e:\comsc200\lab 3\lab 3a\lab3a\test.cpp
+	<iostream>
+	"SalesPerson.h"
+
+1422908168 source:f:\comsc200\lab 3\lab 3a\lab3a\salesperson.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	"SalesPerson.h"
+
+1422906660 f:\comsc200\lab 3\lab 3a\lab3a\salesperson.h
+
+1423075936 source:f:\comsc200\lab 3\lab 3a\lab3a\test.cpp
+	<iostream>
+	"SalesPerson.h"
+
